@@ -3,12 +3,12 @@
 
 
 ## 檔案說明
-- `matrix_修改版.mbr4`：mBlock 專案/自訂積木原始碼（底層為 XML 架構）。
+- `matrix_修改版.mbr4`：matrix自訂積木原始碼
 
-## 如何使用
-1. 下載 `matrix_修改版.mbr4`。
-2. 開啟 mBlock 軟體。
-3. 選擇「匯入」或「載入積木」即可使用，不需直接以文字編輯器開啟原始碼。
+## 如何使用?
+1. 下載 `matrix_修改版.mbr4` 和 MATRIXblock Mini R4(下載地址:https://www.matrixrobotics.com/matrixblock-software)
+2. 打開MATRIXblock Mini R4
+3. 插入matrix_修改版.mbr4即可開啟
 
 
 
