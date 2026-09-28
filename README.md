@@ -1,6 +1,27 @@
+#MATRIX R4 2025-2026
+本專案控制系統完整架構與流程圖，包含主迴圈、手動遙控、AUTO 與 PID 閉迴路循線控制。
+
+
+## 檔案說明
+- `matrix_修改版.mbr4`：mBlock 專案/自訂積木原始碼（底層為 XML 架構）。
+
+## 如何使用
+1. 下載 `matrix_修改版.mbr4`。
+2. 開啟 mBlock 軟體。
+3. 選擇「匯入」或「載入積木」即可使用，不需直接以文字編輯器開啟原始碼。
+
+
+
+
+
+
+
+
+
+
 # MATRIX 控制系統流程圖
 
-本專案控制系統完整架構與流程圖，包含主迴圈、手動遙控、AUTO 與 PID 閉迴路循線控制。
+
 點選後，使用draw.io即可看到完整流程圖:
 
 https://drive.google.com/file/d/1Z6-qCEuw7wQVbTequVIBizeldXjOdrsZ/view?usp=sharing
