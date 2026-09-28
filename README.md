@@ -1,7 +1,7 @@
 # MATRIX 控制系統流程圖
 
 本專案控制系統完整架構與流程圖，包含主迴圈、手動遙控、AUTO 與 PID 閉迴路循線控制。
-
+https://drive.google.com/file/d/1Z6-qCEuw7wQVbTequVIBizeldXjOdrsZ/view?usp=sharing
 ---
 
 ## 1. 主迴圈 (Main Loop)
